@@ -1,0 +1,27 @@
+{
+  "name": "mu-url",
+  "version": "0.0.0",
+  "description": "Tiny URL shortener.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leopiccionia/mu-url.git"
+  },
+  "author": "Leonardo Piccioni de Almeida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leopiccionia/mu-url/issues"
+  },
+  "homepage": "https://github.com/leopiccionia/mu-url#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.14.1",
+    "level": "^1.6.0",
+    "level-exists": "^2.0.2",
+    "normalize-url": "^1.9.1"
+  },
+  "devDependencies": {}
+}
